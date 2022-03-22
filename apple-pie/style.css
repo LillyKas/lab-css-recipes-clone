@@ -1,0 +1,89 @@
+
+html{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px
+
+}
+
+
+
+.header{
+    background-image: url('/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: auto;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 52px;
+    color: white;
+    font-weight: 100;
+}
+
+.section-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px 100px 30px 100px;
+}
+
+.introText{
+    font-size: 18px;
+    color: rgb(107, 107, 107);
+}
+
+.section-img{   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0px 100px 0px 100px;
+}
+
+.recipeInfoCooking{
+    width: auto; 
+    height: 80px;
+}
+
+.recipeInfo{
+    width: auto; 
+    height: 65px;
+}
+
+
+hr{
+    border: 1px solid  rgb(58, 58, 58);
+    background-color: rgb(58, 58, 58);
+
+    margin: 0px 100px 0px 100px;
+}
+
+.section-three{   
+    padding: 30px 100px 30px 100px;
+}
+
+h2{
+    font-size: 28px;
+    color: rgb(107, 107, 107);
+    font-weight: 100;
+}
+
+li{
+    font-size: 18px;
+    color: rgb(107, 107, 107);
+}
+
+.section-four{   
+    padding: 30px 100px 30px 100px;
+}
+
+
+
+
+
